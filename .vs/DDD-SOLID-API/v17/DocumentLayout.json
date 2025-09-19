@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\commands\\createcustomer\\createcustomervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\commands\\createcustomer\\createcustomervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.domain\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|solutionrelative:ddd-solid.domain\\entities\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.domain\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|solutionrelative:ddd-solid.domain\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|solutionrelative:ddd-solid.domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|solutionrelative:ddd-solid.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.domain\\entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C322173-5AD4-46D7-95FA-C1A11D23F8B2}|DDD-SOLID.Domain\\DDD-SOLID.Domain.csproj|solutionrelative:ddd-solid.domain\\entities\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D15983-FA44-4907-B0BF-3EDC3BF12167}|DDD-SOLID.Infrastructure\\DDD-SOLID.Infrastructure.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D15983-FA44-4907-B0BF-3EDC3BF12167}|DDD-SOLID.Infrastructure\\DDD-SOLID.Infrastructure.csproj|solutionrelative:ddd-solid.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D15983-FA44-4907-B0BF-3EDC3BF12167}|DDD-SOLID.Infrastructure\\DDD-SOLID.Infrastructure.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.infrastructure\\persistence\\repositories\\callrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D15983-FA44-4907-B0BF-3EDC3BF12167}|DDD-SOLID.Infrastructure\\DDD-SOLID.Infrastructure.csproj|solutionrelative:ddd-solid.infrastructure\\persistence\\repositories\\callrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\mapping\\callprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\mapping\\callprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA7819F-8686-45C9-8160-6316387CEB8A}|DDD-SOLID-API\\DDD-SOLID-API.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid-api\\controllers\\pacientes\\callcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA7819F-8686-45C9-8160-6316387CEB8A}|DDD-SOLID-API\\DDD-SOLID-API.csproj|solutionrelative:ddd-solid-api\\controllers\\pacientes\\callcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\dtos\\calldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\dtos\\calldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D15983-FA44-4907-B0BF-3EDC3BF12167}|DDD-SOLID.Infrastructure\\DDD-SOLID.Infrastructure.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D15983-FA44-4907-B0BF-3EDC3BF12167}|DDD-SOLID.Infrastructure\\DDD-SOLID.Infrastructure.csproj|solutionrelative:ddd-solid.infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA7819F-8686-45C9-8160-6316387CEB8A}|DDD-SOLID-API\\DDD-SOLID-API.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA7819F-8686-45C9-8160-6316387CEB8A}|DDD-SOLID-API\\DDD-SOLID-API.csproj|solutionrelative:ddd-solid-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\queries\\getcustomersbyid\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\queries\\getcustomersbyid\\getcustomerbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\commands\\createcustomer\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\commands\\createcustomer\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\queries\\getcustomersbyid\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\queries\\getcustomersbyid\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA7819F-8686-45C9-8160-6316387CEB8A}|DDD-SOLID-API\\DDD-SOLID-API.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid-api\\controllers\\pacientes\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA7819F-8686-45C9-8160-6316387CEB8A}|DDD-SOLID-API\\DDD-SOLID-API.csproj|solutionrelative:ddd-solid-api\\controllers\\pacientes\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\queries\\getcustomersbyid\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\queries\\getcustomersbyid\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|c:\\users\\jean.martinez\\source\\repos\\ddd-solid-api\\ddd-solid.application\\commands\\createcustomer\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E16220-5C48-4BCE-A812-58506CA352F4}|DDD-SOLID.Application\\DDD-SOLID.Application.csproj|solutionrelative:ddd-solid.application\\commands\\createcustomer\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Domain\\Entities\\TimeSlot.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\TimeSlot.cs",
+              "RelativeToolTip": "DDD-SOLID.Domain\\Entities\\TimeSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:23:02.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\Schedule.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Domain\\Entities\\Schedule.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\Schedule.cs",
+              "RelativeToolTip": "DDD-SOLID.Domain\\Entities\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:22:59.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\Agent.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Domain\\Entities\\Agent.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\Agent.cs",
+              "RelativeToolTip": "DDD-SOLID.Domain\\Entities\\Agent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:39:16.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "DDD-SOLID.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:45:05.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CallDto.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\DTOs\\CallDto.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\DTOs\\CallDto.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\DTOs\\CallDto.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\DTOs\\CallDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:43:11.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CallProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Mapping\\CallProfile.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\Mapping\\CallProfile.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Mapping\\CallProfile.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\Mapping\\CallProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:42:19.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:41:34.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID-API\\Program.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID-API\\Program.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID-API\\Program.cs",
+              "RelativeToolTip": "DDD-SOLID-API\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAjwBsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:40:10.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCustomerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerValidator.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerValidator.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerValidator.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:39:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetCustomerByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Queries\\GetCustomersById\\GetCustomerByIdHandler.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\Queries\\GetCustomersById\\GetCustomerByIdHandler.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Queries\\GetCustomersById\\GetCustomerByIdHandler.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\Queries\\GetCustomersById\\GetCustomerByIdHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:38:46.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetCustomerByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Queries\\GetCustomersById\\GetCustomerByIdQuery.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\Queries\\GetCustomersById\\GetCustomerByIdQuery.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Queries\\GetCustomersById\\GetCustomerByIdQuery.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\Queries\\GetCustomersById\\GetCustomerByIdQuery.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:38:38.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Queries\\GetCustomersById\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\Queries\\GetCustomersById\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Queries\\GetCustomersById\\CustomerDto.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\Queries\\GetCustomersById\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:38:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID-API\\Controllers\\Pacientes\\CustomersController.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID-API\\Controllers\\Pacientes\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID-API\\Controllers\\Pacientes\\CustomersController.cs",
+              "RelativeToolTip": "DDD-SOLID-API\\Controllers\\Pacientes\\CustomersController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwB0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:34:00.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateCustomerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerHandler.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerHandler.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerHandler.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:33:21.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerRequest.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerRequest.cs",
+              "RelativeToolTip": "DDD-SOLID.Application\\Commands\\CreateCustomer\\CreateCustomerRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:33:10.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "DDD-SOLID.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAtwBMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:32:31.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "DDD-SOLID.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:31:58.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Call.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\Call.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Domain\\Entities\\Call.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Domain\\Entities\\Call.cs",
+              "RelativeToolTip": "DDD-SOLID.Domain\\Entities\\Call.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:31:52.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CallController.cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID-API\\Controllers\\Pacientes\\CallController.cs",
+              "RelativeDocumentMoniker": "DDD-SOLID-API\\Controllers\\Pacientes\\CallController.cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID-API\\Controllers\\Pacientes\\CallController.cs",
+              "RelativeToolTip": "DDD-SOLID-API\\Controllers\\Pacientes\\CallController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T02:21:09.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CallRepository .cs",
+              "DocumentMoniker": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Infrastructure\\Persistence\\Repositories\\CallRepository .cs",
+              "RelativeDocumentMoniker": "DDD-SOLID.Infrastructure\\Persistence\\Repositories\\CallRepository .cs",
+              "ToolTip": "C:\\Users\\jean.martinez\\source\\repos\\DDD-SOLID-API\\DDD-SOLID.Infrastructure\\Persistence\\Repositories\\CallRepository .cs",
+              "RelativeToolTip": "DDD-SOLID.Infrastructure\\Persistence\\Repositories\\CallRepository .cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:37:04.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
