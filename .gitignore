@@ -3,13 +3,33 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
-# User-specific files
-*.rsuser
-*.suo
+# Carpetas de configuración de Visual Studio
+.vs/
 *.user
-*.userosscache
-*.sln.docstates
-*.env
+*.suo
+
+# Archivos temporales y de caché
+*.cache
+*.log
+*.tmp
+*.bak
+
+# Archivos de configuración local
+*.AssemblyReference.cache
+*.g.cs
+*.g.i.cs
+
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de configuración de entorno
+*.props
+*.csproj.user
+
+# Archivos de configuración de Rider o VS Code (si aplica)
+.idea/
+.vscode/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
