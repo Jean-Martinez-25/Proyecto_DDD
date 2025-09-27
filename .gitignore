@@ -20,8 +20,8 @@
 *.g.i.cs
 
 # Archivos de compilación
-bin/
-obj/
+**/bin/
+**/obj/
 
 # Archivos de configuración de entorno
 *.props
