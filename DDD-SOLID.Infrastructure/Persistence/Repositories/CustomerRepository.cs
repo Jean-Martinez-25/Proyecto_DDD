@@ -23,6 +23,8 @@ namespace DDD_SOLID.Infrastructure.Persistence.Repositories
             await _context.SaveChangesAsync();
         }
 
+        public async Task<bool> ExistsAsync(Guid customerId) => true;
+
         public async Task<IEnumerable<Customer>> GetAllAsync()
         {
             return await _context.Customers.ToListAsync();
